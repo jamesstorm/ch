@@ -1,0 +1,16 @@
+{
+   "commands":[
+    {
+        "name":"ls",
+        "description":"list files and folders",
+        "keywords":"cat list files folders directories folder directory"
+      },
+    {
+      "name":"mdadm",
+      "description":"manage raid arrays",
+      "keywords":"cat raid disk disks array manage"
+      
+    }
+   ]
+
+  }
